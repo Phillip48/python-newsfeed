@@ -12,4 +12,11 @@ In this course, you’ll use Python to refactor an existing application that was
 
 ### Other Notes
 * The __init__.py file of a Python package corresponds to the index.js file of a Node.js module.
+
+* Lesson 2 tip: Consolidating your modules in the __init__.py file of the parent package makes it easier to later import them into other modules.
+* self is equivalent to this, and __init__() is equivalent to constructor() in JS
+
 * Other notes will be found in the code
+
+
+Left off at lesson 2 activity 4 end
